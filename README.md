@@ -1,1 +1,3 @@
-# My Study Planner
+
+# Study Planner (SDU edition)
+
